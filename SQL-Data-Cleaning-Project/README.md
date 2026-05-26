@@ -1,3 +1,11 @@
 # SQL Data Cleaning Project
 
-This project focuses on cleaning and transforming raw housing data using SQL.
+In this project, I cleaned Nashville Housing data using SQL Server.
+
+Skills Used:
+- Joins
+- CTEs
+- Window Functions
+- String Functions
+- Data Type Conversion
+- Duplicate Removal
