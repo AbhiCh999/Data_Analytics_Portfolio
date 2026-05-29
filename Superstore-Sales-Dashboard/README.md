@@ -1,55 +1,62 @@
-# Superstore Sales Dashboard
+# Super Store Sales Dashboard
 
 ## Project Overview
 
-This project presents an interactive Power BI dashboard developed using the Superstore Sales dataset. The dashboard helps analyze sales performance, profitability, product categories, and regional trends through visual reports and key business metrics.
+This Power BI dashboard provides a comprehensive analysis of Super Store sales performance across regions, customer segments, categories, sub-categories, shipping modes, and payment methods. The dashboard enables stakeholders to monitor key business metrics, identify growth opportunities, and make data-driven decisions.
 
 ## Objectives
 
-* Analyze overall sales and profit performance.
-* Identify top-performing product categories.
-* Understand regional sales distribution.
-* Track sales trends over time.
-* Create interactive visualizations for business decision-making.
+- Analyze overall sales, profit, and order performance.
+- Identify top-performing regions, categories, and sub-categories.
+- Track monthly sales and profit trends.
+- Understand customer purchasing behavior across segments.
+- Evaluate shipping and payment preferences.
+- Support business decision-making through interactive visualizations.
 
-## Tools & Technologies
+## Tools & Technologies Used
 
-* Power BI
-* Power Query
-* DAX
-* Microsoft Excel
-
-## Data Preparation
-
-The dataset was imported into Power BI and transformed using Power Query. Data cleaning and formatting steps were performed to improve data quality and reporting accuracy.
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
 
 ## Dashboard Features
 
-* KPI Cards for Sales, Profit, and Orders
-* Sales Trend Analysis
-* Category-wise Sales Performance
-* Regional Performance Analysis
-* Interactive Slicers and Filters
-* Dynamic Visualizations
+- Interactive regional filters (Central, East, South, West)
+- KPI Cards for Sales, Orders, Profit, and Ship Days
+- Monthly Sales Trend Analysis
+- Monthly Profit Trend Analysis
+- Sales by Region Analysis
+- Sales by Customer Segment
+- Sales by Payment Mode
+- Sales by Shipping Mode
+- Sales by Category and Sub-Category
+- Geographic Sales Visualization
 
 ## Key Insights
 
-* Identified product categories contributing the highest sales.
-* Compared sales performance across different regions.
-* Analyzed trends in sales and profit over time.
-* Evaluated category-wise contribution to overall business performance.
-* Enabled interactive exploration of business data through filters and slicers.
+- Total sales reached approximately $1.6M across 22K orders.
+- The West region generated the highest share of sales (33%), followed by the East region (29%).
+- Consumer segment contributed the largest portion of total sales (48%), making it the most valuable customer segment.
+- Cash on Delivery (COD) was the most preferred payment mode, accounting for 43% of transactions.
+- Standard Class was the most commonly used shipping mode, generating approximately $0.33M in sales.
+- Office Supplies emerged as the top-performing category with sales of approximately $0.64M.
+- Phones were the highest-selling sub-category, generating around $0.20M in sales.
+- Sales showed an upward trend in 2020 compared to 2019, with significant growth observed during the final quarter.
+- Profit peaked towards the end of the year, indicating stronger business performance during high-demand periods.
 
 ## Business Value
 
-The dashboard provides a consolidated view of sales performance and helps stakeholders monitor business metrics, identify trends, and support data-driven decision-making.
+- Helps identify high-performing regions and product categories.
+- Supports inventory planning based on category and sub-category demand.
+- Enables optimization of shipping and payment strategies.
+- Provides visibility into monthly sales and profit performance.
+- Assists stakeholders in tracking critical KPIs and business growth trends.
 
-## Dataset
+## Files Included
 
-Superstore Sales Dataset
-
-## Project Files
-
-* SuperStore_Sales_Dashboard.pbix
-* SuperStore_Sales_Dataset.csv
+- SuperStore_Sales_Dashboard.pbix
+- SuperStore_Sales_Dataset.csv
+- Sales_Dashboard.JPG
 
