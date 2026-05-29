@@ -37,12 +37,12 @@ This project analyzes customer purchasing behavior and sales performance using P
 * Business Reporting Dashboard
 
 ## Key Insights
-
-* Analyzed customer purchasing patterns and sales behavior.
-* Identified high-performing products and sales trends.
-* Compared customer segments using interactive visualizations.
-* Monitored key performance indicators through dashboard reports.
-* Generated business insights using data analysis and visualization techniques.
+- Clothing generated the highest revenue ($104K), contributing significantly more than other product categories.
+- Clothing also recorded the highest sales volume (1,737 units), indicating strong customer demand.
+- Young Adults were the highest revenue-generating age group, contributing approximately $62K in sales.
+- Subscription customers accounted for 27% of the customer base, while 73% were non-subscribers.
+- Accessories was the second-best performing category in both revenue and sales volume.
+- Outerwear generated the lowest revenue ($19K) and lowest sales volume (324 units), indicating lower customer demand.
 
 ## Business Value
 
